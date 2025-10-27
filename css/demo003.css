@@ -32,7 +32,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 background-size: 100%; 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 }
@@ -479,7 +479,7 @@ font-family: 'Cantata One', serif;
  font-family: 'Cantata One', serif;
   font-size: 40px;
   color:#fff;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b);
+  background: linear-gradient(to bottom, #fb9483, #fb9483);
 height:80px; 
 display:flex;
 justify-content: center; 
@@ -493,7 +493,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#232323;
-  background: linear-gradient(to left, #fff3df, #fff3df);
+  background: linear-gradient(to left, #ffe2dd, #ffe2dd);
   
 height:40px; 
 display:flex;
@@ -508,7 +508,7 @@ letter-spacing: 3px;
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#232323;
-  background: linear-gradient(to right, #fff3df, #fff3df);
+  background: linear-gradient(to right, #ffe2dd, #ffe2dd);
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -519,7 +519,7 @@ letter-spacing: 1px;
 .año{
 font-family: 'Cantata One', serif;
   font-size: 45px;
-  color:#daaa9b;
+  color:#fb9483;
   letter-spacing: 4px;
   margin-top: -13px;
 }
@@ -550,7 +550,7 @@ font-family: 'Cantata One', serif;
 font-family: 'Cantata One', serif;
   margin-top:10px;
   margin-bottom: -20px;
-  color:#daaa9b;
+  color:#fb9483;
   font-size: 20px;
   opacity: 1;
 
@@ -579,13 +579,13 @@ font-family: 'Cantata One', serif;
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 15px;
-  color:#daaa9b;
+  color:#fb9483;
   letter-spacing: 1px;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 16px;
-  color:#daaa9b;
+  color:#fb9483;
   letter-spacing: 2px;
 }
 .tespero{
@@ -614,7 +614,7 @@ font-family: 'Cantata One', serif;
  font-size:140px;
  margin-top: -95px;
  margin-bottom: -60px;
-    color:#daaa9b;
+    color:#fb9483;
     opacity: .2;
     
 }
@@ -633,7 +633,7 @@ text-shadow: 0px 0px 0px;
 
 }
 .lluviaSobres{
-  color:#daaa9b;  
+  color:#fb9483;  
   font-family: 'Updock', cursive; 
   font-size: 35px;
 }
@@ -644,7 +644,7 @@ text-shadow: 0px 0px 0px;
 }
 .iconoLluviaSobres{
   font-size: 40px; 
-  color:#daaa9b;
+  color:#fb9483;
 
 }
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
@@ -740,7 +740,7 @@ text-shadow: 0px 0px 0px;
 font-family: 'Cantata One', serif;
   margin-top:10px;
   margin-bottom: -20px;
-  color:#daaa9b;
+  color:#fb9483;
   font-size: 20px;
   opacity: 1;
 
@@ -759,7 +759,7 @@ font-family: 'Cantata One', serif;
  font-family: 'Cantata One', serif;
   font-size: 40px;
   color:#fff;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b);
+  background: linear-gradient(to bottom, #fb9483, #fb9483);
 height:80px; 
 display:flex;
 justify-content: center; 
@@ -773,7 +773,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#232323;
-  background: linear-gradient(to left, #fff3df, #fff3df); 
+  background: linear-gradient(to left, #ffe2dd, #ffe2dd); 
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -787,7 +787,7 @@ letter-spacing: 3px;
     font-family: 'Cantata One', serif;
   font-size: 13px;
   color:#232323;
-  background: linear-gradient(to right, #fff3df, #fff3df);
+  background: linear-gradient(to right, #ffe2dd, #ffe2dd);
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -798,20 +798,20 @@ letter-spacing: 1px;
 .año{
 font-family: 'Cantata One', serif;
   font-size: 45px;
-  color:#8d6b2f;
+  color:#fb9483;
   letter-spacing: 4px;
   margin-top: -13px;
 }
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 15px;
-  color:#8d6b2f;
+  color:#fb9483;
   letter-spacing: 3px;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 16px;
-  color:#8d6b2f;
+  color:#fb9483;
   letter-spacing: 2px;
 }
 .tespero{
@@ -828,7 +828,7 @@ font-family: 'Cantata One', serif;
 font-family: 'Cantata One', serif;
   margin-top:10px;
   margin-bottom: -20px;
-  color:#daaa9b;
+  color:#fb9483;
   font-size: 15px;
   opacity: 1;
 
@@ -847,7 +847,7 @@ font-family: 'Cantata One', serif;
  font-family: 'Cantata One', serif;
   font-size: 30px;
   color:#fff;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b);
+  background: linear-gradient(to bottom, #fb9483, #fb9483);
 height:80px; 
 display:flex;
 justify-content: center; 
@@ -861,7 +861,7 @@ box-shadow: 0px 0px 30px -4px rgba(0,0,0,0.75);
     font-family: 'Cantata One', serif;
   font-size: 10px;
   color:#f4f4f4;
-  background: linear-gradient(to left, #fff3df, #fff3df);
+  background: linear-gradient(to left, #ffe2dd, #ffe2dd);
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -875,7 +875,7 @@ letter-spacing: 3px;
     font-family: 'Cantata One', serif;
   font-size: 10px;
   color:#f4f4f4;
-  background: linear-gradient(to right, #1b1a1f, #c8c8c8);
+  background: linear-gradient(to right, #ffe2dd, #ffe2dd);
 height:40px; 
 display:flex;
 justify-content: center; 
@@ -886,20 +886,20 @@ letter-spacing: 1px;
 .año{
 font-family: 'Cantata One', serif;
   font-size: 35px;
-  color:#daaa9b;
+  color:#fb9483;
   letter-spacing: 4px;
   margin-top: -13px;
 }
 .porqueformas{
    font-family: 'Cantata One', serif;
   font-size: 13px;
-  color:#8d6b2f;
+  color:#fb9483;
   letter-spacing: 3px;
 }
 .porqueformas1{
    font-family: 'Cantata One', serif;
   font-size: 14px;
-  color:#8d6b2f;
+  color:#fb9483;
   letter-spacing: 2px;
 }
 .tespero{
@@ -928,7 +928,7 @@ text-shadow: 0px 1px 10px rgba(0,0,0,0.4);
  font-size:140px;
  margin-top: -95px;
  margin-bottom: -60px;
-    color:#daaa9b;
+    color:#fb9483;
     opacity: .2;
     
 }
@@ -968,7 +968,7 @@ text-shadow: 0px 0px 0px;
 
 }
 .lluviaSobres{
-  color:#daaa9b;  
+  color:#fb9483;  
   font-family: 'Updock', cursive; 
   font-size: 25px;
 }
@@ -979,7 +979,7 @@ text-shadow: 0px 0px 0px;
 }
 .iconoLluviaSobres{
   font-size: 30px; 
-  color:#daaa9b;
+  color:#fb9483;
 
 }
 }
@@ -988,7 +988,7 @@ text-shadow: 0px 0px 0px;
 font-family: 'Arapey', serif;
   font-size: 27px;
   color:252323;
-  background-color: #fff3df; 
+  background-color: #faa799; 
 height:50px; 
 display:flex;
 justify-content: center; 
@@ -1031,7 +1031,7 @@ font-family: 'Open Sans', sans-serif;
 font-family: 'Arapey', serif;
   font-size: 30px;
   color:white;
-  background-color: #fff3df; 
+  background-color: #faa799; 
 height:50px; 
 display:flex;
 justify-content: center; 
@@ -1073,7 +1073,7 @@ font-family: 'Open Sans', sans-serif;
 font-family: 'Arapey', serif;
   font-size: 30px;
   color:white;
-  background-color: #fff3df; 
+  background-color: #faa799; 
 height:50px; 
 display:flex;
 justify-content: center; 
@@ -1183,11 +1183,11 @@ border-bottom-left-radius: 30px 30px;
 }
 .mesaregalos{
 
-  border-top: 2px solid #8d6b2f;
-  border-bottom: 2px solid #8d6b2f;
-  border-right: 2px solid #8d6b2f;
-  border-left: 2px solid #8d6b2f;
-  border-color: #8d6b2f;
+  border-top: 2px solid #fb9483;
+  border-bottom: 2px solid #fb9483;
+  border-right: 2px solid #fb9483;
+  border-left: 2px solid #fb9483;
+  border-color: #fb9483;
   color:black;
   background-color: #fff;
   outline: 30px solid #fff;
@@ -1212,7 +1212,7 @@ border-top-left-radius: 30px 30px;
   
   border-color: #bc8e00;
   background-color: #fff;
-  color:#8d6b2f;
+  color:#fb9483;
   
   text-align: center;
 }
@@ -1235,7 +1235,7 @@ border-top-left-radius: 30px 30px;
   border-right: 4px solid white;
   border-left: 4px solid white;
   
-  border-color: #8d6b2f;
+  border-color: #fb9483;
 
   color:black;
  
@@ -1385,10 +1385,10 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 0px solid ;
   border-right: 0px solid ;
   border-left: 0px solid ;
-  border-color: #daaa9b;
+  border-color: #fb9483;
   text-decoration: none;
   color:#fff;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b); 
+  background: linear-gradient(to bottom, #fb9483, #fb9483); 
   font-family: 'Arapey', serif; 
   font-size: 15px;
    height: 45px;
@@ -1403,18 +1403,18 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 2px solid ;
   border-right: 2px solid ;
   border-left: 2px solid ;
-  border-color: #daaa9b;
+  border-color: #fb9483;
   text-decoration: none;
    background: linear-gradient(to bottom, #fff, #fff);
   font-family: 'Arapey', serif; 
   font-size: 15px;
-  color:#daaa9b;
+  color:#fb9483;
   height: 45px;
 }
 .btnComoLlegar{
   text-decoration: none;
   color:#FFF;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b);
+  background: linear-gradient(to bottom, #fb9483, #fb9483);
   font-family: 'Cantata One', serif;
   font-size: 11px;
    height: 45px;
@@ -1429,7 +1429,7 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   background: linear-gradient(to bottom, #fff, #fff);
   font-family: 'Cantata One', serif; 
   font-size: 11px;
-  color:#daaa9b;
+  color:#fb9483;
   height: 45px;
   letter-spacing: 2px;
 
@@ -1437,7 +1437,7 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
   border-bottom: 2px solid ;
   border-right: 2px solid ;
   border-left: 2px solid ;
-  border-color: #daaa9b;
+  border-color: #fb9483;
 }
 .mujeres{
 color:#252323;  
@@ -1447,7 +1447,7 @@ letter-spacing: 3px;
 margin-left: -18px;
 }
 .mujeres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif;
 font-size: 13px; 
 letter-spacing: 3px;
@@ -1460,7 +1460,7 @@ font-size: 13px;
 letter-spacing: 3px;
 }
 .hombres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif; 
 font-size: 13px;
 letter-spacing: 3px;
@@ -1484,7 +1484,7 @@ letter-spacing: 3px;
 margin-left: -30px;
 }
 .mujeres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif;
 font-size: 20px; 
 letter-spacing: 3px;
@@ -1498,7 +1498,7 @@ letter-spacing: 3px;
 margin-left: -15px;
 }
 .hombres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif; 
 font-size: 13px;
 letter-spacing: 3px;
@@ -1509,12 +1509,12 @@ margin-left: 5px;
   color:white;
   border-color: white;
   font-size: 12px;
-  background: linear-gradient(to bottom, #8d6b2f, #ecd094);
+  background: linear-gradient(to bottom, #fb9483, #ecd094);
 }
 .btnComoLlegar{
   text-decoration: none;
   color:#FFF;
-  background: linear-gradient(to bottom, #daaa9b, #daaa9b);
+  background: linear-gradient(to bottom, #fb9483, #fb9483);
   font-family: 'Cantata One', serif;
   font-size: 9px;
    height: 45px;
@@ -1537,7 +1537,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -1609,7 +1609,7 @@ letter-spacing: 3px;
 margin-left: -30px;
 }
 .mujeres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif;
 font-size: 20px; 
 letter-spacing: 3px;
@@ -1623,7 +1623,7 @@ letter-spacing: 3px;
 margin-left: -15px;
 }
 .hombres2{
-color:#8d6b2f;  
+color:#fb9483;  
 font-family: 'Cantata One', serif; 
 font-size: 13px;
 letter-spacing: 3px;
@@ -1710,12 +1710,12 @@ display: flex;
    font-family: 'Cantata One', serif;
   text-decoration:none;
   color:#fff;
-  background-color: #8d6b2f;
+  background-color: #fb9483;
   border-top: 3px solid ;
   border-bottom: 3px solid ;
   border-right: 3px solid ;
   border-left: 3px solid ;
-  border-color: #8d6b2f;
+  border-color: #fb9483;
   height: 45px;
   font-size: 15px;
   font-weight: bold;
@@ -1728,12 +1728,12 @@ display: flex;
 .btnWhatsNovios:hover{
   text-decoration:none;
   background-color: transparent;
-  color: #8d6b2f;
+  color: #fb9483;
   border-top: 2px solid ;
   border-bottom: 2px solid ;
   border-right: 2px solid ;
   border-left: 2px solid ;
-  border-color: #8d6b2f;
+  border-color: #fb9483;
  
 }
 
@@ -1744,7 +1744,7 @@ letter-spacing: 3px;
   height: 50px;
   font-size: 12px;
 
-background-color:#8d6b2f; 
+background-color:#fb9483; 
 color:white;
 display:flex;
   justify-content: center;
@@ -1754,12 +1754,12 @@ display:flex;
 
 .btnHoteles:hover{
   text-decoration:none;
-  color: #8d6b2f;
-   border-top: 2px solid #8d6b2f;
-  border-bottom: 2px solid #8d6b2f;
-  border-right: 2px solid #8d6b2f;
-  border-left: 2px solid #8d6b2f;
-  border-color: #8d6b2f;
+  color: #fb9483;
+   border-top: 2px solid #fb9483;
+  border-bottom: 2px solid #fb9483;
+  border-right: 2px solid #fb9483;
+  border-left: 2px solid #fb9483;
+  border-color: #fb9483;
   background-color: white;
 
  
@@ -1870,7 +1870,7 @@ margin-top: 0px;
     cursor:pointer;
     width:50px;
     height:50px;
-    background-color:#daaa9b;
+    background-color:#fb9483;
     border-color: #9B7A07;
     text-indent:-9999px;
     display:none;
@@ -2197,10 +2197,10 @@ audio::-webkit-media-controls-play-button:hover {
   color: white;
 }
 audio::-webkit-media-controls-current-time-display {
-  color: #8d6b2f;
+  color: #fb9483;
 }
 audio::-webkit-media-controls-time-remaining-display {
-  color: #8d6b2f;
+  color: #fb9483;
 }
 audio::-webkit-media-controls-timeline {
   background-color: #fff;
@@ -2489,7 +2489,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2533,7 +2533,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2577,7 +2577,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2626,7 +2626,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2674,7 +2674,7 @@ margin-bottom: 0px;
 position: center;
 z-index: 99px;
 
-background-image: url(../img/A&E-1346.png); 
+background-image: url(../img/A&E-1346.jpeg); 
 position: relative; 
 background-attachment: scroll;
 background-repeat: no-repeat;
@@ -2743,7 +2743,7 @@ display: flex;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 30%;
-  background-color: #fff3df;
+  background-color: #faa799;
   border-radius: 50%;
 
 
@@ -2825,12 +2825,12 @@ div#is-left {
 .evitarDress{
   
   
-  background-color: #daaa9b;
-  border-top: 1px solid #daaa9b;
-  border-bottom: 1px solid #daaa9b;
-  border-right: 1px solid #daaa9b;
-  border-left: 1px solid #daaa9b;
-border-color: #daaa9b;
+  background-color: #fb9483;
+  border-top: 1px solid #fb9483;
+  border-bottom: 1px solid #fb9483;
+  border-right: 1px solid #fb9483;
+  border-left: 1px solid #fb9483;
+border-color: #fb9483;
   
   
 }
