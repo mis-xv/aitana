@@ -602,6 +602,16 @@ font-family: 'Cantata One', serif;
   font-family: 'Playfair Display', serif; 
   font-size:16px;
 }
+.tesperoTexto{
+  text-shadow: 0px 1px 10px rgba(0,0,0,0.4); 
+  margin-top: -150px; 
+   
+  font-family: "Bellefair", serif;
+  font-weight: 400;
+  font-style: normal;
+  color:#fb9483; margin-bottom:30px; font-size: 16px;
+
+}
 .nompadres{
   font-family: 'Updock', cursive;
   font-size: 28px;
